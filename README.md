@@ -24,9 +24,9 @@
 
 - 🌍 Building on **AWS**, **Azure**, and **GCP**
 - 🤖 Building products with **Generative AI** and **LLM-powered workflows**
+- 💼 Empowering businesses, Delivering end-to-end **managed services** to optimize cloud infrastructure and accelerate digital transformation.
 - 🛠️ Specializing in **cloud-native architectures**, **DevOps pipelines**, and **IaC**
 - 📚 Continuous learner — always shipping, always growing
-- 💼 Empowering businesses, Delivering end-to-end **managed services** to optimize cloud infrastructure and accelerate digital transformation.
 
 ---
 
