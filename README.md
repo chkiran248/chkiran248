@@ -26,6 +26,7 @@
 - 🤖 Building products with **Generative AI** and **LLM-powered workflows**
 - 🛠️ Specializing in **cloud-native architectures**, **DevOps pipelines**, and **IaC**
 - 📚 Continuous learner — always shipping, always growing
+- 💼 Empowering businesses, Delivering end-to-end **managed services** to optimize cloud infrastructure and accelerate digital transformation.
 
 ---
 
