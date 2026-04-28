@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chkiran248/chkiran248/main/banner.png" alt="Cloud. DevOps. Innovative." width="100%" />
+  <img src="https://raw.githubusercontent.com/chkiran248/chkiran248/main/banner.png?v=3" alt="AI. Data. Cloud. DevSecOps." width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Kiran CH</h1>
