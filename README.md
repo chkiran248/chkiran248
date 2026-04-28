@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Surya</h1>
-<h3 align="center">AI · Data · Cloud · DevSecOps Engineer</h3>
+<h3 align="center">AI · Data · Cloud · DevSecOps · Leadership · Entrepreneur · Builder</h3>
 
 <p align="center">
   <a href="https://github.com/chkiran248?tab=followers">
