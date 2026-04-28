@@ -20,11 +20,11 @@
 
 ## 🚀 About Me
 
-> *Passionate about building scalable cloud solutions, automating infrastructure, and exploring the frontier of AI & DevOps. Open to collaboration, open source, and continuous learning.*
+> *Passionate about architecting, building scalable cloud solutions, automating infrastructure, and exploring the frontier of AI & DevOps on frontier cloud platforms. Open to collaboration, open source, and continuous learning.*
 
-- 🌍 Building on **Microsoft Azure**, **AWS**, and **Kubernetes**
-- 🤖 Experimenting with **Generative AI** and LLM-powered workflows
-- 🛠️ Specializing in **DevOps pipelines**, **IaC**, and **cloud-native architectures**
+- 🌍 Building on **AWS**, **Azure**, and **GCP**
+- 🤖 Building products with **Generative AI** and **LLM-powered workflows**
+- 🛠️ Specializing in **cloud-native architectures**, **DevOps pipelines**, and **IaC**
 - 📚 Continuous learner — always shipping, always growing
 
 ---
