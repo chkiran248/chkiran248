@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/chkiran248/chkiran248/main/banner.png?v=6" alt="AI. Data. Cloud. DevSecOps." width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Kiran CH</h1>
+<h1 align="center">👋 Hi, I'm Surya</h1>
 <h3 align="center">AI · Data · Cloud · DevSecOps Engineer</h3>
 
 <p align="center">
