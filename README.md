@@ -35,9 +35,9 @@
 Open communities drive innovation. Here are some great ways to explore and collaborate:
 
 - 🔍 [Explore my featured projects below](#-featured-projects) — built for real-world use cases
-- 💬 [Open an issue](https://github.com/chkiran248?tab=repositories) on any of my repositories for discussions, bugs, or ideas
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/chkiran248) or reach out on [X/Twitter](https://x.com/chkiran248)
-- ☁️ Interested in Azure, AI automation, or DevOps? Let's build together!
+- 💬 [Open an issue](https://github.com/chkiran248/chkiran248/issues) on any of my repositories for discussions, bugs, or ideas
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/suryakiran/)
+- ☁️ Interested in **Agentic AI** or **AI solutions**? Let's build together!
 
 ---
 
@@ -99,9 +99,7 @@ Open communities drive innovation. Here are some great ways to explore and colla
   <a href="https://github.com/chkiran248">
     <img src="https://img.shields.io/badge/GitHub-chkiran248-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/chkiran248">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+  <a href="https://www.linkedin.com/in/suryakiran/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&label=LINKEDIN&labelColor=%230077B5" alt="LinkedIn"></a>
 </p>
 
 ---
